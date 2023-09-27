@@ -1,8 +1,8 @@
+[![An image of @hvs0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hvs0)](https://holopin.io/@hvs0)
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaterclasher&label=Profile%20views&color=0e75b6&style=flat" alt="avaterclasher" /> </p>
-[![An image of @hvs0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hvs0)](https://holopin.io/@hvs0)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avaterclasher" alt="avaterclasher" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Website**
